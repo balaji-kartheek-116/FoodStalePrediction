@@ -1,0 +1,4 @@
+0 Fresh Apple
+1 Stale Apple
+2 Fresh Banana
+3 Stale Banana
